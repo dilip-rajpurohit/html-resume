@@ -1,6 +1,6 @@
-# theme: jekyll-theme-minimal # Or the name of your chosen theme
-# title: My Awesome Website
-# description: A place where I share my thoughts and projects.
-# # You can add more variables here
-# author: Dilip rajpurohit
-# email: diliprajpurohit132email@example.com
+theme: jekyll-theme-minimal # Or the name of your chosen theme
+title: My Awesome Website
+description: A place where I share my thoughts and projects.
+# You can add more variables here
+author: Dilip rajpurohit
+email: diliprajpurohit132email@example.com
